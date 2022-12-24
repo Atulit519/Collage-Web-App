@@ -1,0 +1,30 @@
+hr{
+    width: 70%;
+}
+
+img{
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+img:hover{
+    box-shadow: 5px 5px 5px black;
+}
+
+body{
+    background-color: azure;
+}
+
+h4{
+    color: red;
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'Unbounded', cursive;
+}
+
+#camera{
+    border-radius: 20px;
+}
